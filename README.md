@@ -13,6 +13,7 @@ Este proyecto contiene datos geográficos detallados de la República Dominicana
 - [Contribuciones](#contribuciones)
 - [Licencia](#licencia)
 - [Contacto](#contacto)
+- [Apoya mi trabajo](#apoya-mi-trabajo)
 
 ## Descripción
 
@@ -89,7 +90,9 @@ Para cualquier duda o comentario, puedes contactarme en:
 
 - **Nombre**: Marvyn Harry
 - **GitHub**: [MarvynHarry](https://github.com/MarvynHarry)
-
+  
+## Apoya mi trabajo
+Si te gusta mi trabajo o quieres apoyar lo que hago, ¡no dudes en [invitarme un café](https://buymeacoffee.com/marvynharry)!
 ---
 
 ¡Gracias por visitar este repositorio! Si encuentras útil este proyecto, no dudes en dejar una estrella ⭐.
