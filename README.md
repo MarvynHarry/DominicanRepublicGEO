@@ -17,7 +17,7 @@ Este proyecto contiene datos geográficos detallados de la República Dominicana
 
 ## Descripción
 
-"DominicanRepublicGEO" es una colección de datos geográficos que cubre la República Dominicana. Este proyecto es ideal para desarrolladores que necesiten datos precisos sobre la estructura territorial del país para sus aplicaciones web, sistemas de gestión o proyectos académicos.
+"Dominican Republic GEO" es una colección de datos geográficos que cubre la República Dominicana. Este proyecto es ideal para desarrolladores que necesiten datos precisos sobre la estructura territorial del país para sus aplicaciones web, sistemas de gestión o proyectos académicos.
 
 ## Características
 
