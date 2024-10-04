@@ -93,11 +93,3 @@ Para cualquier duda o comentario, puedes contactarme en:
 ---
 
 ¡Gracias por visitar este repositorio! Si encuentras útil este proyecto, no dudes en dejar una estrella ⭐.
-"""
-
-# Saving the content to a README.md file
-readme_path = "/mnt/data/README.md"
-with open(readme_path, "w") as file:
-    file.write(readme_content)
-
-readme_path
